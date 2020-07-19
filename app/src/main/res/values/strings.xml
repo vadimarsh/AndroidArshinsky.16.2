@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AndroidArshinsky.16.2</string>
+    <string name="callBut">Позвонить</string>
+    <string name="sendBut">Отправляем СМС</string>
+    <string name="phonenymber">Номер телефона</string>
+    <string name="smstext">Текст смс</string>
+    <string name="permissionCall">Разрешите делать звонки</string>
+    <string name="permissionSMS">Разрешите отправлять смс</string>
+</resources>
